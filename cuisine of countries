@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <titel>Cuisine Of Countries</titel>
+        
+    </head>
+    <body>
+
+    <header>
+        <p><strong>Ther are so many cuisines in the world lets go try some from a few countries</strong></p>
+        <li><a href="https://www.youtube.com/shorts/IOYvYDQWUNQ">cuisines of the world</a></li>
+        <h1><strong>Italy</strong></h1>
+        <img src="OIP (2).jpeg"alt=pasta from italy>
+        <p>Spaghetti  is a long, thin, solid, cylindrical pasta.It is a staple food of traditional
+        Italian cuisine.Like other pasta, spaghetti is made of milled wheat, water, and sometimes enriched with vitamins and
+        minerals. Italian spaghetti is typically made from durum-wheat semolina. Usually the pasta is white because refined
+        flour is used, but whole wheat flour may be added.Spaghettoni is a thicker form of spaghetti, while spaghettini is a
+        thinner form. Capellini is a very thin spaghetti, while vermicelli refers to intermediate thicknesses</p>
+        <h2><strong>Japan</strong></h2>
+        <img src="OIP (4).jpeg"alt=shushi>
+        <p>A dish known as narezushi (馴れ寿司, 熟寿司, "matured fish"), stored in fermented rice for possibly months at a time, has been
+        cited as one of the early influences for the Japanese practice of applying rice on raw fish. The fish was fermented with
+        rice vinegar, salt, and rice, after which the rice was discarded. Narezushi is also called honnare, meaning "fully
+        fermented", as opposed to namanare, meaning "partially fermented", a type of sushi that appeared in the Muromachi
+        period.</p>
+        <h3><strong>Mexico</strong></h3>
+        <img src="download.jpeg">
+        <p>The origins of the taco are not precisely known, and etymologies for the culinary usage of the word are generally
+        theoretical. Taco in the sense of a typical Mexican dish comprising a maize tortilla folded around food is just
+        one of the meanings connoted by the word, according to the Real Academia Española, publisher of Diccionario de la Lengua
+        Española. This meaning of the Spanish word "taco" is a Mexican innovation, but the word "taco" is used in other
+        contexts to mean "wedge; wad, plug; billiard cue; blowpipe; ramrod; short, stocky person;  short, thick piece of
+        wood." The etymological origin of this sense of the word is Germanic and has cognates in other European languages,
+        including the French word tache and the English word "tack".</p>
+        <p><strong>India</strong></p>
+        <img src="OIP.jpeg"img width="200">
+        <p>Chicken tikka masala is composed of chicken tikka, boneless chunks of chicken marinated in spices and yoghurt that are
+        roasted in an oven, served in a creamy sauce. A tomato and coriander sauce is common, but no recipe for chicken
+        tikka masala is standard; a survey found that of 48 different recipes, the only common ingredient was chicken.The
+        sauce usually includes tomatoes , cream, coconut cream and a masala spice mix. The sauce and
+        chicken pieces may be coloured orange using foodstuffs such as turmeric, paprika, tomato 
+        purée or with food dye.</p>
+        <p><strong>America</strong></p>
+        <img src="download (1).jpeg">
+        <p>By the late 19th century, the vast grasslands of the Great Plains had been opened up for cattle ranching. This made it
+        possible for many Americans to consume beef almost daily. The hamburger remains as one of the cheapest forms of beef in
+        America.[1]
+        
+        Adding cheese to hamburgers became popular in the 1920s. There are several competing claims as to who created the first
+        cheeseburger. Lionel Sternberger is reputed to have introduced the cheeseburger in 1924 at the age of 16. He was working
+        as a fry cook at his father's Pasadena, California, sandwich shop, "The Rite Spot", and "experimentally dropped a slab
+        of American cheese on a sizzling hamburger."
+         An early example of the cheeseburger appearing on a menu
+        is a 1928 menu for the Los Angeles restaurant O'Dell's, which listed a cheeseburger smothered with chili for 25 cents.</p>
+    </header>
+    </body>
+</html>
