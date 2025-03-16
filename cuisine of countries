@@ -4,6 +4,33 @@
         <titel>Cuisine Of Countries</titel>
         
     </head>
+    <style>
+        body {
+            background-color: aquamarine;
+        }
+    
+        header {
+            background-color: rgb(240, 8, 8);
+        }
+    
+        nav {
+            background-color: rgb(168, 16, 156);
+        }
+    
+        #intro {
+            background-color: rgb(76, 48, 141);
+        }
+    
+        .main-section-content h2 {
+            background-color: red;
+        }
+          header,
+        nav,
+        #intro,
+        #main-section,#bestsellers,
+        footer{
+            border:5px solid rgb(24, 11, 11);
+        </STYLE>
     <body>
 
     <header>
@@ -44,7 +71,7 @@
         <img src="download (1).jpeg">
         <p>By the late 19th century, the vast grasslands of the Great Plains had been opened up for cattle ranching. This made it
         possible for many Americans to consume beef almost daily. The hamburger remains as one of the cheapest forms of beef in
-        America.[1]
+        America.
         
         Adding cheese to hamburgers became popular in the 1920s. There are several competing claims as to who created the first
         cheeseburger. Lionel Sternberger is reputed to have introduced the cheeseburger in 1924 at the age of 16. He was working
