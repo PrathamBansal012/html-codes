@@ -28,14 +28,17 @@
         nav,
         #intro,
         #main-section,#bestsellers,
-        footer{
-            border:5px solid rgb(24, 11, 11);
+        footer
+        { border:5px solid rgb(24, 11, 11);}
+            .p {
+                color:red;
+                font-family: 'Courier New', Courier, monospace;
+            }
         </STYLE>
-    <body>
+            
 
-    <header>
         <p><strong>Ther are so many cuisines in the world lets go try some from a few countries</strong></p>
-        <li><a href="https://www.youtube.com/shorts/IOYvYDQWUNQ">cuisines of the world</a></li>
+                <li><a href="https://www.youtube.com/shorts/IOYvYDQWUNQ">cuisines of the world</a></a></li>
         <h1><strong>Italy</strong></h1>
         <img src="OIP (2).jpeg"alt=pasta from italy>
         <p>Spaghetti  is a long, thin, solid, cylindrical pasta.It is a staple food of traditional
@@ -51,7 +54,7 @@
         fermented", as opposed to namanare, meaning "partially fermented", a type of sushi that appeared in the Muromachi
         period.</p>
         <h3><strong>Mexico</strong></h3>
-        <img src="download.jpeg">
+        <img src="download.jpeg">        
         <p>The origins of the taco are not precisely known, and etymologies for the culinary usage of the word are generally
         theoretical. Taco in the sense of a typical Mexican dish comprising a maize tortilla folded around food is just
         one of the meanings connoted by the word, according to the Real Academia Española, publisher of Diccionario de la Lengua
@@ -79,6 +82,5 @@
         of American cheese on a sizzling hamburger."
          An early example of the cheeseburger appearing on a menu
         is a 1928 menu for the Los Angeles restaurant O'Dell's, which listed a cheeseburger smothered with chili for 25 cents.</p>
-    </header>
-    </body>
-</html>
+        </body>       
+         </html>
