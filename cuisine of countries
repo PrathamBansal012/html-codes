@@ -33,7 +33,22 @@
             .p {
                 color:red;
                 font-family: 'Courier New', Courier, monospace;
+            
+        {
+                      
+width:220px;
+background-color:yellow;
+padding: 0px;
             }
+            {
+                width:220px;
+background-color:green;
+padding: 50px;
+border: 5px solid black;
+margin: 40px 20px;}
+hr{
+    background-color: red;
+}
         </STYLE>
             
 
