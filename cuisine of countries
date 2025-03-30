@@ -34,35 +34,31 @@
                 color:red;
                 font-family: 'Courier New', Courier, monospace;
             
-        {
+        
                       
 width:220px;
 background-color:yellow;
 padding: 0px;
             }
-            {
-                width:220px;
-background-color:green;
-padding: 50px;
-border: 5px solid black;
-margin: 40px 20px;}
-hr{
-    background-color: red;
-}
+            
+                
+
+    background-color red
+
         </STYLE>
             
 
         <p><strong>Ther are so many cuisines in the world lets go try some from a few countries</strong></p>
                 <li><a href="https://www.youtube.com/shorts/IOYvYDQWUNQ">cuisines of the world</a></a></li>
         <h1><strong>Italy</strong></h1>
-        <img src="OIP (2).jpeg"alt=pasta from italy>
+        <img src="OIP (2).jpeg alt=pasta from italy>
         <p>Spaghetti  is a long, thin, solid, cylindrical pasta.It is a staple food of traditional
         Italian cuisine.Like other pasta, spaghetti is made of milled wheat, water, and sometimes enriched with vitamins and
         minerals. Italian spaghetti is typically made from durum-wheat semolina. Usually the pasta is white because refined
         flour is used, but whole wheat flour may be added.Spaghettoni is a thicker form of spaghetti, while spaghettini is a
         thinner form. Capellini is a very thin spaghetti, while vermicelli refers to intermediate thicknesses</p>
         <h2><strong>Japan</strong></h2>
-        <img src="OIP (4).jpeg"alt=shushi>
+        <img src="OIP (4).jpeg alt=shushi>
         <p>A dish known as narezushi (馴れ寿司, 熟寿司, "matured fish"), stored in fermented rice for possibly months at a time, has been
         cited as one of the early influences for the Japanese practice of applying rice on raw fish. The fish was fermented with
         rice vinegar, salt, and rice, after which the rice was discarded. Narezushi is also called honnare, meaning "fully
@@ -76,7 +72,7 @@ hr{
         Española. This meaning of the Spanish word "taco" is a Mexican innovation, but the word "taco" is used in other
         contexts to mean "wedge; wad, plug; billiard cue; blowpipe; ramrod; short, stocky person;  short, thick piece of
         wood." The etymological origin of this sense of the word is Germanic and has cognates in other European languages,
-        including the French word tache and the English word "tack".</p>
+        including the French word tache and the English word "tack"</p>
         <p><strong>India</strong></p>
         <img src="OIP.jpeg"img width="200">
         <p>Chicken tikka masala is composed of chicken tikka, boneless chunks of chicken marinated in spices and yoghurt that are
@@ -98,4 +94,8 @@ hr{
          An early example of the cheeseburger appearing on a menu
         is a 1928 menu for the Los Angeles restaurant O'Dell's, which listed a cheeseburger smothered with chili for 25 cents.</p>
         </body>       
-         </html>
+</html>
+<footer>
+    <p><span>Contact Us</span> mr.pratham</p>
+    <p><span></span>+919711977710</p>
+</footer>
