@@ -1,0 +1,15 @@
+<!DOCTYPE.html>
+    <html>
+        <head>
+            <title>JAVA SCRIPT EXAMPLE</title>
+        </head>
+        <body>
+            <center>
+                <h1>My First Web Page</h1>
+                <button id="button1" style="background-color: blueviolet;">click me</button>
+                <script>
+                    document.getElementById("button1").onclick = function() { document.body.style.backgroundColor="red";};
+                </script>
+            </center>
+        </body>
+    </html>
